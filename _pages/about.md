@@ -17,7 +17,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Tst: I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
+I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
 I mostly work in Behavioral Economics with a strong interest in how computational and machine learning tools can benefit (behavioral) economic analysis and how (behavioral) economics can inform current debates in discussions on fair and explainable AI.
 
