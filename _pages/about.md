@@ -49,7 +49,7 @@ We study how humans incorporate advice by an algorithm in a setting where gender
 
 #### Strategic Risk-Taking and Time Pressure in Professional Chess
 
-_with Johannes Carow_, under review<br> 
+_with Johannes Carow_, under review 
 <!--[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py)--> [[draft]](/assets/pdf/chess.pdf) <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
 
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
