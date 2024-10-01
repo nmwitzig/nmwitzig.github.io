@@ -21,8 +21,6 @@ I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [th
 
 My research is primarily in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic choice or (behavioral) time allocation to tasks. I also apply machine learning techniques, particularly using chess data. In a second line of research, I collaborate with computer science experts on interdisciplinary research related to fair and explainable AI.
 
-
- 
 &nbsp;
 &nbsp;
 
@@ -49,7 +47,8 @@ We study how humans incorporate advice by an algorithm in a setting where gender
 
 #### Strategic Risk-Taking and Time Pressure in Professional Chess
 
-_with Johannes Carow_, under review 
+_with Johannes Carow_, under review
+
 <!--[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py)--> [[draft]](/assets/pdf/chess.pdf) <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
 
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
@@ -63,11 +62,6 @@ _with Alexander Dzionara_<br>
 <div id="collapse_time" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 In many economic contexts, people need to solve trade-offs between doing an activity (e.g., solving a task) *faster* and doing it *better*. While time choices in speed-accuracy trade-offs have been extensively studied in cognitive science for motor-response and perception tasks, little evidence is available for more deliberate economic decision-making, where people's choices often fail to maximize payoffs. Conversely, the impact of behavioral biases -- key explanans of that failure --  on time choices has yet to be explored. We present a theoretical model linking time choices in speed-accuracy trade-offs to agents' abilities and their subjective beliefs and uncertainty attitudes. We test the predictions of the model in an experiment for two distinct (but otherwise identical) environments: prospective time choices before solving a task and simultaneous time choices while solving a task. Correlational analyses indicate that overconfidence (in one's ability) and uncertainty aversion affect time choices in the prospective but not in the simultaneous environment. Structural estimations, aimed at capturing the (behavioral) optimization process, support this interpretation. This suggests that long-known behavioral biases play a role outside of classical domains, yet could ``play out`` differently between planned and actual actions.</text></div>
 &nbsp;
-
-
-
-
-
 
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
