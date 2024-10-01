@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-I primarily work in Behavioral Economics with a strong focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic choice or time allocation to tasks. I also apply machine learning techniques, particularly using chess data. Moreover, I collaborate with computer science experts on interdisciplinary research related to fair and explainable AI.
+I primarily work in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic choice or time allocation to tasks. I also apply machine learning techniques, particularly using chess data. Moreover, I collaborate with computer science experts on interdisciplinary research related to fair and explainable AI.
 
 
 In a second line of research, I collaborate with computer scientists on various topics in fair and explainable AI.
