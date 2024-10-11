@@ -29,7 +29,6 @@ In a second line of research, I collaborate with computer scientists on interdis
 
 ## Research Projects
 
-&nbsp;
 
 <!--*[You can find a poster summarizing some of my projects here](https://www.gutenberg-akademie.uni-mainz.de/files/2022/05/Witzig_poster_Komprimiert.pdf)*
 -->
