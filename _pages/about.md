@@ -24,6 +24,7 @@ My research is primarily in Behavioral Economics with a focus on structural (Bay
 &nbsp;
 &nbsp;
 
+
 ## Research Projects
 
 &nbsp;
@@ -81,3 +82,10 @@ In this project, we
 </text>
 </details>
 -->
+
+
+
+
+
+
+
