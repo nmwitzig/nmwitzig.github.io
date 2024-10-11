@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-My research is primarily in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic preferences or (behavioral) time allocation to tasks. I use machine learning in my research, for instance to predict when human chess players make mistakes or to estimate heterogeneous treatment effects in experiments.
+My research is primarily in Behavioral Economics with a methodological focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic preferences or (behavioral) time allocation to tasks. I use machine learning in my research, for instance to predict when human chess players make mistakes or to estimate heterogeneous treatment effects in experiments.
 
 In a second line of research, I collaborate with computer scientists on interdisciplinary research related to fair and explainable AI as well as using AI methods for sustainability purposes.
 
