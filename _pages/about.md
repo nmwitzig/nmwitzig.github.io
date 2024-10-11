@@ -21,8 +21,6 @@ I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [th
 
 My research is primarily in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic preferences or (behavioral) time allocation to tasks. I also use machine learning techniques in my research, for example to predict when human chess players make mistakes or to estimate heterogeneous treatment effects in experiments. In a second line of research, I collaborate with computer scientists on interdisciplinary research related to fair and explainable AI.
 
-
- 
 &nbsp;
 &nbsp;
 
@@ -35,7 +33,7 @@ My research is primarily in Behavioral Economics with a focus on structural (Bay
 
 #### Cognitive Noise and Altruistic Preferences
 
-<!--[[Streamlit-App (prelim)]](https://appmodel-dwngdhzfinbdrbgcqepth6.streamlit.app/)--> [[arxiv]](https://arxiv.org/abs/2410.07647)[[pdf]](/assets/pdf/noise.pdf) <a data-toggle="collapse" href="#collapse_noise" class="collapsed" aria-expanded="false">[abstract]</a>
+<!--[[Streamlit-App (prelim)]](https://appmodel-dwngdhzfinbdrbgcqepth6.streamlit.app/)--> [[arxiv]](https://arxiv.org/abs/2410.07647) [[pdf]](/assets/pdf/noise.pdf) <a data-toggle="collapse" href="#collapse_noise" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_noise" class="panel-collapse collapse" style=""> <text style="font-size:smaller; text-justify: auto">
 I study altruistic choices through the lens of a cognitively noisy decision-maker. I introduce a theoretical framework that demonstrates how increased cognitive noise can directionally affect altruistic decisions and put its implications to the test: In a laboratory experiment, participants make a series of binary choices between taking and giving monetary payments. In the treatment, to-be-calculated sums replace plain monetary payments, increasing the cognitive difficulty of choosing. The Treatment group exhibits a lower sensitivity towards changes in payments and decides significantly more often in favor of the other person, i.e., is more altruistic. I explore the origins of this effect with Bayesian hierarchical models and a number-comparison task, mirroring the mechanics of the altruism choices absent any altruistic preference. The treatment effect is similar in this task, suggesting that a biased perception of numerical magnitudes drives treatment differences. The probabilistic models support this interpretation. A series of additional results show a negative correlation between cognitive reflection and individual measures of cognitive noise, as well as associations between altruistic choice and number comparison. Overall, these results suggest that altruistic preferences -- and potentially social preferences more generally -- are affected by the cognitive difficulty of their implementation.</text></div>
 
@@ -49,7 +47,8 @@ We study how humans incorporate advice by an algorithm in a setting where gender
 
 #### Strategic Risk-Taking and Time Pressure in Professional Chess
 
-_with Johannes Carow_, under review<br> 
+_with Johannes Carow_, under review<br>
+
 <!--[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py)--> [[draft]](/assets/pdf/chess.pdf) <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
 
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
@@ -63,11 +62,6 @@ _with Alexander Dzionara_<br>
 <div id="collapse_time" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 In many economic contexts, people need to solve trade-offs between doing an activity (e.g., solving a task) *faster* and doing it *better*. While time choices in speed-accuracy trade-offs have been extensively studied in cognitive science for motor-response and perception tasks, little evidence is available for more deliberate economic decision-making, where people's choices often fail to maximize payoffs. Conversely, the impact of behavioral biases -- key explanans of that failure --  on time choices has yet to be explored. We present a theoretical model linking time choices in speed-accuracy trade-offs to agents' abilities and their subjective beliefs and uncertainty attitudes. We test the predictions of the model in an experiment for two distinct (but otherwise identical) environments: prospective time choices before solving a task and simultaneous time choices while solving a task. Correlational analyses indicate that overconfidence (in one's ability) and uncertainty aversion affect time choices in the prospective but not in the simultaneous environment. Structural estimations, aimed at capturing the (behavioral) optimization process, support this interpretation. This suggests that long-known behavioral biases play a role outside of classical domains, yet could ``play out`` differently between planned and actual actions.</text></div>
 &nbsp;
-
-
-
-
-
 
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
