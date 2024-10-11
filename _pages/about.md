@@ -19,7 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-My research is primarily in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic preferences or (behavioral) time allocation to tasks. I use machine learning in my research, for instance to predict when human chess players make mistakes or to estimate heterogeneous treatment effects in experiments. In a second line of research, I collaborate with computer scientists on interdisciplinary research related to fair and explainable AI.
+My research is primarily in Behavioral Economics with a focus on structural (Bayesian) modeling of behavior, for example of cognitive processes underlying altruistic preferences or (behavioral) time allocation to tasks. I use machine learning in my research, for instance to predict when human chess players make mistakes or to estimate heterogeneous treatment effects in experiments.
+
+In a second line of research, I collaborate with computer scientists on interdisciplinary research related to fair and explainable AI as well as using AI methods for sustainability purposes.
 
 &nbsp;
 &nbsp;
@@ -49,7 +51,6 @@ We study how humans incorporate advice by an algorithm in a setting where gender
 #### Strategic Risk-Taking and Time Pressure in Professional Chess
 
 _with Johannes Carow_, under review<br>
-
 <!--[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py)--> [[draft]](/assets/pdf/chess.pdf) <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
 
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
@@ -63,6 +64,21 @@ _with Alexander Dzionara_<br>
 <div id="collapse_time" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 In many economic contexts, people need to solve trade-offs between doing an activity (e.g., solving a task) *faster* and doing it *better*. While time choices in speed-accuracy trade-offs have been extensively studied in cognitive science for motor-response and perception tasks, little evidence is available for more deliberate economic decision-making, where people's choices often fail to maximize payoffs. Conversely, the impact of behavioral biases -- key explanans of that failure --  on time choices has yet to be explored. We present a theoretical model linking time choices in speed-accuracy trade-offs to agents' abilities and their subjective beliefs and uncertainty attitudes. We test the predictions of the model in an experiment for two distinct (but otherwise identical) environments: prospective time choices before solving a task and simultaneous time choices while solving a task. Correlational analyses indicate that overconfidence (in one's ability) and uncertainty aversion affect time choices in the prospective but not in the simultaneous environment. Structural estimations, aimed at capturing the (behavioral) optimization process, support this interpretation. This suggests that long-known behavioral biases play a role outside of classical domains, yet could ``play out`` differently between planned and actual actions.</text></div>
 &nbsp;
+
+
+
+
+<!--
+#### Predicting NOx emissions in Biochar Production Plants using Machine Learning
+_with Marius Köppel, Tobias Schweitzer, Mattia Cerrato, Tim Klausmann and others_ <br>
+[*accepted at Neurips 2024 Climate Change Workshop*]
+<div id="collapse_biochar" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
+
+In this paper, we present a novel method of optimizing the process of a biochar plant based on machine learning methods. We show how a standard Random Forest Regressor can be used to model the states of the pyrolysis machine, the physics of which remain highly complex and only poorly understood. This model serves as a surrogate of the machine (reproducing several of its key outcomes) in a numerical optimization. This, in turn, could enable us to reduce NOx emissions -- a key regulatory goal in that industry -- while achieving maximal output still. In a preliminary test our approach shows remarkable results, proves to be applicable on two different machines from different manufacturers, and can be implemented on standard Internet of Things (IoT) devices more generally.</text></div>
+&nbsp;
+-->
+
+
 
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
