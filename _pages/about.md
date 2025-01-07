@@ -40,12 +40,12 @@ In a second line of research, I collaborate with computer scientists on interdis
 I study altruistic choices through the lens of a cognitively noisy decision-maker. I introduce a theoretical framework that demonstrates how increased cognitive noise can directionally affect altruistic decisions and put its implications to the test: In a laboratory experiment, participants make a series of binary choices between taking and giving monetary payments. In the treatment, to-be-calculated sums replace plain monetary payments, increasing the cognitive difficulty of choosing. The Treatment group exhibits a lower sensitivity towards changes in payments and decides significantly more often in favor of the other person, i.e., is more altruistic. I explore the origins of this effect with Bayesian hierarchical models and a number-comparison task, mirroring the mechanics of the altruism choices absent any altruistic preference. The treatment effect is similar in this task, suggesting that a biased perception of numerical magnitudes drives treatment differences. The probabilistic models support this interpretation. A series of additional results show a negative correlation between cognitive reflection and individual measures of cognitive noise, as well as associations between altruistic choice and number comparison. Overall, these results suggest that altruistic preferences -- and potentially social preferences more generally -- are affected by the cognitive difficulty of their implementation.</text></div>
 
 #### Predicting NOx emissions in Biochar Production Plants using Machine Learning
+
 _with Marius Köppel, Tobias Schweitzer, Mattia Cerrato, Tim Klausmann and others_ <br>
-[[arxiv]](https://arxiv.org/abs/2412.07881) [[*poster at NeurIPS'24 Climate Change Workshop*]](https://neurips.cc/virtual/2024/100555)
+[[arxiv]](https://arxiv.org/abs/2412.07881) [[poster @ NeurIPS'24 Climate Change Workshop]](https://neurips.cc/virtual/2024/100555)
 <div id="collapse_biochar" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 
 In this paper, we present a novel method of optimizing the process of a biochar plant based on machine learning methods. We show how a standard Random Forest Regressor can be used to model the states of the pyrolysis machine, the physics of which remain highly complex and only poorly understood. This model serves as a surrogate of the machine (reproducing several of its key outcomes) in a numerical optimization. This, in turn, could enable us to reduce NOx emissions -- a key regulatory goal in that industry -- while achieving maximal output still. In a preliminary test our approach shows remarkable results, proves to be applicable on two different machines from different manufacturers, and can be implemented on standard Internet of Things (IoT) devices more generally.</text></div>
-&nbsp;
 
 #### Strategic Risk-Taking and Time Pressure in Professional Chess
 
