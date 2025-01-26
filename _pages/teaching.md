@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### Summer 2022+23: Tutorial Behavioral Economics
+### Summer 2022+23+24: Tutorial Behavioral Economics
 
 [[Web-App Tutorial]](https://share.streamlit.io/nmwitzig/beh_econ_streamlit/st_talk_slides.py)
 
