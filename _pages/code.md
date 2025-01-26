@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-
+<!-- CSS taken from  https://github.com/junkawa/markdown-it-link-preview-->
 <style>
 .link-preview-widget
 {
@@ -109,4 +109,4 @@ nav_order: 6
 
 ### Chess sample project
 
-<p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/chess_sample_repo.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chess code</div><div class="link-preview-widget-description">Test text.</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://github.com/junkawa/figma_jp" rel="noopener" style="background-image: url('https://repository-images.githubusercontent.com/292775522/57a0a600-f246-11ea-9b1a-078a5abb05e8');" target="_blank"></a></div></p>
+<p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/chess_sample_repo.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chess code</div><div class="link-preview-widget-description">This repo demonstrates a routine which (i) analyzes chess games using a chess engine, (ii) extracts this data and creates a tabular dataset with chess positions and evaluations and human moves and (iii) includes how to do machine learning using such a dataset.</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://nmwitzig.github.io/assets/img/chess_example.png" rel="noopener" style="background-image: url('https://repository-images.githubusercontent.com/292775522/57a0a600-f246-11ea-9b1a-078a5abb05e8');" target="_blank"></a></div></p>
