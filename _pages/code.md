@@ -112,6 +112,9 @@ nav_order: 6
 <p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/streamlit_rag_chat.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chat with your documents with streamlit</div><div class="link-preview-widget-description">under construction</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://nmwitzig.github.io/assets/img/rag_example.png" rel="noopener" style="background-image: url('https://nmwitzig.github.io/assets/img/rag_example.png');" target="_blank"></a></div></p>
 
 
+
+<br><br>
+
 ### Chess sample project
 
 <p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/chess_sample_repo.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chess Analysis with TensorFlow and Streamlit</div><div class="link-preview-widget-description">Research routine (i) analyzing chess games, (ii) cleaning data (iii) doing some machine learning and (iv) building simple streamlit app for visualization.</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://nmwitzig.github.io/assets/img/chess_example.png" rel="noopener" style="background-image: url('https://nmwitzig.github.io/assets/img/chess_example.png');" target="_blank"></a></div></p>
