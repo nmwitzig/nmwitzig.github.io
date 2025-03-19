@@ -109,8 +109,8 @@ nav_order: 6
 
 ### Simple Streamlit RAG App (Chat with your documents)
 
-<p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/streamlit_rag_chat.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chat with your documents with streamlit</div><div class="link-preview-widget-description">under construction</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://nmwitzig.github.io/assets/img/rag_example.png" rel="noopener" style="background-image: url('https://nmwitzig.github.io/assets/img/rag_example.png');" target="_blank"></a></div></p>
-
+<!-- <p><div class="link-preview-widget"><a href="https://github.com/nmwitzig/streamlit_rag_chat.git" rel="noopener" target="_blank"><div class="link-preview-widget-title">Chat with your documents with streamlit</div><div class="link-preview-widget-description">under construction</div><div class="link-preview-widget-url">GitHub</div></a><a class="link-preview-widget-image" href="https://nmwitzig.github.io/assets/img/rag_example.png" rel="noopener" style="background-image: url('https://nmwitzig.github.io/assets/img/rag_example.png');" target="_blank"></a></div></p>
+ -->
 
 ### Chess sample project
 
